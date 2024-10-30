@@ -1,0 +1,33 @@
+{
+    "manifest_version": 3,
+    "name": "Gpt4o Bypasser By Utsav",
+    "version": "1.0",
+    "description": "Byapasses Gpt4o limit from https://gpt4o.so ----> Made By Utsav",
+    "permissions": [
+      "cookies",
+      "activeTab",
+      "storage",
+      "scripting"
+    ],
+    "host_permissions": [
+      "http://*/*",
+      "https://*/*"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_title": "Modify Cookies",
+      "default_icon": {
+        "16": "chatgpt-icon.png",
+        "48": "chatgpt-icon.png",
+        "128": "chatgpt-icon.png"
+      }
+    },
+    "icons": {
+      "16": "chatgpt-icon.png",
+      "48": "chatgpt-icon.png",
+      "128": "chatgpt-icon.png"
+    }
+  }
+  
