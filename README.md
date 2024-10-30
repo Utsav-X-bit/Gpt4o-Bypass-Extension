@@ -32,5 +32,5 @@ This Extension is used to bypass usage limit from "https://gpt4o.so" and allows 
 2. You can use Image Search Feature of Gpt4o unlimited Times.
 
 -----------------------------------------------------------------------------------------
-Made By utsav-X-Bit [Github] @Evokkers [Telegram] 
+Made By utsav-X-Bit [Utsav-X-Bit](https://github.com/Utsav-X-bit) [Telegram - XD_OD](https://t.me/Evokkers)
 -----------------------------------------------------------------------------------------
